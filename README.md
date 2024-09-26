@@ -91,5 +91,7 @@ Solution found:
 ### QueenRecognizer.py
 
 1. Place your grid image in the working directory.
+
 2. Ensure you specify the correct grid size and number of colors in the script.
+
 3. Run the script, and the puzzle will be solved and printed similarly to `Queen.py`.
